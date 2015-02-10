@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>My Home Page</title>
+    </head>
+    <body>
+        <h1>My Testing Page</h1>
+        <h2>Tests</h2>
+        <p>This is a test page.
+            <ol>
+                <li>Test 1</li>
+                <li>Test 2</li>
+                <li>Test 3</li>
+        </ol>    
+        </p>
+    </body>
+</html>
