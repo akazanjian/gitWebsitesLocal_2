@@ -24,6 +24,11 @@ body {
     line-height: 1.5em;
 }
 
+canvas {
+    position: absolute;
+    z-index: 10;
+}
+
 a:link {
     color: #CF7F18;
 }
