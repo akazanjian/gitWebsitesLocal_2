@@ -4,3 +4,5 @@ $(function () {
     'use strict';
     $("#include").load("import/include.htm");
 });
+$(window).width();
+$(window).height();
